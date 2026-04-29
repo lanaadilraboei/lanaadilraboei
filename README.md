@@ -2,7 +2,7 @@
 
 I'm a Data Science student at the University of Jeddah with interests in data analysis, business intelligence, AI, applied research, and creative problem-solving.
 
-I have experience in applied research, volunteering, photography, training, and data analysis using Microsoft Excel, Power BI, and SAS. I enjoy building data-driven solutions that create positive impact.
+I have experience in data analysis using Microsoft Excel, Power BI,SAS,jupyter, SQL, applied research,Machine learning, volunteering and photography. I enjoy building data-driven solutions that create positive impact.
 
 ## 🔭 Currently Working On
 - Improving my skills in Data Science and Business Intelligence
@@ -48,4 +48,4 @@ I have experience in applied research, volunteering, photography, training, and 
 
 ## 📫 How to Reach Me
 - Email: lanaadilraboei@gmail.com
-- LinkedIn: add your LinkedIn link here
+- LinkedIn:
