@@ -1,6 +1,6 @@
 # Hi, I'm Lana Adil Raboei 👋
 
-I'm a Data Science student at the University of Jeddah with interests in data analysis, business intelligence, AI, applied research, and creative problem-solving.
+I'm a Data Science student at the University of Jeddah with interests in data analysis, business intelligence, AI, applied research, and Machine learning.
 
 I have experience in data analysis using Microsoft Excel, Power BI,SAS,jupyter, SQL, applied research,Machine learning, volunteering and photography. I enjoy building data-driven solutions that create positive impact.
 
