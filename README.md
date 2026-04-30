@@ -36,6 +36,7 @@ I have experience in data analysis using Microsoft Excel, Power BI,SAS,jupyter, 
 - Finalist, Tamayuz EDUthon Hackathon
 - Finalist, Futurethon Bupa Hackathon
 - Exhibitor, Ibdaa Exhibition
+## Projects
 
 ## 📜 Certificates & Training
 - Microsoft Excel – Data Analysis
@@ -49,3 +50,10 @@ I have experience in data analysis using Microsoft Excel, Power BI,SAS,jupyter, 
 ## 📫 How to Reach Me
 - Email: lanaadilraboei@gmail.com
 - LinkedIn:
+### 🚲 Bike Sales Dashboard
+Interactive Power BI dashboard for analyzing bike sales by category, product, and year.
+
+*Tools:* Power BI, Power Query, DAX, Excel/CSV  
+*Focus:* Sales trends, product performance, and category analysis  
+
+[View Project](https://github.com/lanaadilraboei/Bike-dashboard)
